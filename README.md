@@ -62,3 +62,5 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder
 import pandas as pd
 import numpy as np
+# PRESENTATION LINK 
+https://www.canva.com/design/DAGmfvh5TEk/s3JOse9oRilvLCwx_f9JQQ/edit
